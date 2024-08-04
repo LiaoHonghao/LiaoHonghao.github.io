@@ -1,13 +1,14 @@
 ---
-title: Quad Exterpercep
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Exteroceptive Perception for Quadruped Robot
+date: 2022.10 - 2023.06
+external_link: https://liaohonghao.github.io/quad_exterpercep_demo/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Exteroceptive Perception
+  - Quadruped Robot
+  - SLAM
+  - Planning
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+A project to acquire exteroceptive sensory information for the quadruped robot Unitree AlienGo and apply it to downstream tasks such as SLAM and path planning..
 
 <!--more-->
