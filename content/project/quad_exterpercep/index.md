@@ -9,6 +9,6 @@ tags:
   - Planning
 ---
 
-A project to acquire exteroceptive sensory information for the quadruped robot Unitree AlienGo and apply it to downstream tasks such as SLAM and path planning..
+Acquiring exteroceptive sensory information for the robot Unitree AlienGo and apply it to some downstream tasks.
 
 <!--more-->
