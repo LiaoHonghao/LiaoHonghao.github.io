@@ -1,6 +1,6 @@
 ---
 title: Exteroceptive Perception for Quadruped Robot
-date: 2022.10 - 2023.06
+date: 2023.06.30
 external_link: https://liaohonghao.github.io/quad_exterpercep_demo/
 tags:
   - Exteroceptive Perception
