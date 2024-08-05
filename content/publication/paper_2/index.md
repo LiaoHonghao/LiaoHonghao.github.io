@@ -1,8 +1,8 @@
 ---
-title: "Research on Object Navigation Method Based on Deep Reinforcement Learning(Working paper, in Chinese)"
+title: "Research on Object Navigation Method Based on Deep Reinforcement Learning(in Chinese)"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2022-06-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,6 @@ abstract: Autonomous navigation is the basic ability requirement for robots to c
 summary: A novel deep reinforcement learning based visual objective navigation method.
 
 tags:
-- Deep Reinforcement Learning
 - Visual Objective Navigation
 
 featured: true
