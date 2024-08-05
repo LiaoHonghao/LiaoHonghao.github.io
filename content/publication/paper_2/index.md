@@ -23,13 +23,14 @@ abstract: Autonomous navigation is the basic ability requirement for robots to c
 summary: A novel deep reinforcement learning based visual objective navigation method.
 
 tags:
+- Reinforcement Learning
 - Visual Objective Navigation
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#   url: http://example.org
 url_pdf: uploads/Research_on_object_navigation_method_based_on_DRL.pdf
 # url_code: '#'
 # url_dataset: '#'
@@ -62,10 +63,10 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+<!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
