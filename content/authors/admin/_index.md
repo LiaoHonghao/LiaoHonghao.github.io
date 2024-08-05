@@ -132,14 +132,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Cycling
         description: ''
         percent: 100
-        icon: cat
+        icon: bicycle
       - name: Movie
         description: ''
         percent: 80
-        icon: camera
+        icon: movie
 
 languages:
   - name: Chinese
