@@ -218,4 +218,4 @@ awards:
 
 ## About Me
 
-Honghao Liao is a current graduate student at VsisLab, Shandong University. His research interests include legged robots, reinforcement learning and imitation learning. He is currently a member of the Legged Robotics Group, and his research focuses on imitation learning for bipedal robots, as well as inspection applications for quadruped robots in specialized scenarios.
+I am a current graduate student at VsisLab, Shandong University. My research interests include legged robots, reinforcement learning and imitation learning. I am currently a member of the Legged Robotics Group, and my research focuses on imitation learning for bipedal robots, as well as inspection applications for quadruped robots in specialized scenarios.
