@@ -107,11 +107,11 @@ skills:
       - name: C/C++
         description: ''
         percent: 60
-        icon: code-bracket
+        icon: devicon/c
       - name: Python
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: python
       - name: ROS
         description: ''
         percent: 60
