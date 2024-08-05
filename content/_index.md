@@ -42,17 +42,17 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
   - block: collection
     content:
       title: Recent Publications
@@ -63,16 +63,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: project
+  - block: collection
     content:
       title: Selected Projects
-      text: ""
+      text: I have worked on many projects related to legged robots and human motion recognition. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
-          - projects
-        exclude_featured: false
+          - project
     design:
-      view: citation
+      view: article-grid
+      fill_image: false
+      columns: 2
   # - block: collection
   #   id: talks
   #   content:
