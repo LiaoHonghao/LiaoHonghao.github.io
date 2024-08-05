@@ -1,5 +1,5 @@
 ---
-title: "ntegrating Controllable Motion Skills from Demonstrations"
+title: "Integrating Controllable Motion Skills from Demonstrations"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -30,9 +30,9 @@ tags:
 
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
+# links:
+# - name: Custom Link
+#   url: http://example.org
 url_pdf: uploads/working_paper.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
