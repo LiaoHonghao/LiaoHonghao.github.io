@@ -135,11 +135,11 @@ skills:
       - name: Cycling
         description: ''
         percent: 100
-        icon: bicycle
+        icon: cat
       - name: Movie
         description: ''
         percent: 80
-        icon: movie
+        icon: camera
 
 languages:
   - name: Chinese
