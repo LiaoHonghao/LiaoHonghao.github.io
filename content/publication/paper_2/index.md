@@ -1,5 +1,5 @@
 ---
-title: "Research on Object Navigation Method Based on Deep Reinforcement Learning(in Chinese)"
+title: "Research on Object Navigation Method Based on Deep Reinforcement Learning(Working paper, in Chinese)"
 authors:
 - admin
 date: "2022-06-30T00:00:00Z"
