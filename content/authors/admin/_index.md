@@ -159,7 +159,7 @@ awards:
   - title: National Post-Graduate Mathematical Contest in Modeling
     awarder: Association of Chinese Graduate Education
     date: '2023-12-10'
-    logo: custom/contest_logo_1
+    icon: custom/contest_logo_1
     summary: |
       Learned:
       - Some statistical methods, e.g. entropy weighting, time series forecasting
