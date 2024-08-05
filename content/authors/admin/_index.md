@@ -25,7 +25,7 @@ role: Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Shandong University
-    url: https://openai.com/
+    url: https://www.sdu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -201,4 +201,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Honghao Liao is a current graduate student at VsisLab, Shandong University. His research interests include legged robots, reinforcement learning and imitation learning. He is currently a member of the Legged Robotics Group, and his research focuses on imitation learning for bipedal robots, as well as inspection applications for quadruped robots in specialized scenarios.
