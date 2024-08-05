@@ -18,9 +18,6 @@ sections:
       button:
         text: Download en CV
         url: uploads/resume.pdf
-      button:
-        text: Download cn CV
-        url: uploads/resume.pdf
     design:
       css_class: dark
       background:
