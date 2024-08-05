@@ -23,7 +23,7 @@ abstract: Autonomous navigation is the basic ability requirement for robots to c
 summary: A novel deep reinforcement learning based visual objective navigation method.
 
 tags:
-- Reinforcement Learning
+- Deep Reinforcement Learning
 - Visual Objective Navigation
 
 featured: true

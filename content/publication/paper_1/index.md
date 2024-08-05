@@ -23,6 +23,8 @@ abstract: The expanding applications of legged robots require their mastery of v
 summary: A flexible imitation learning-based multi-skill integration framework for legged robots.
 
 tags:
+- Legged Robots
+- Reinforcement Learning
 - Imitation Learning
 
 featured: true
