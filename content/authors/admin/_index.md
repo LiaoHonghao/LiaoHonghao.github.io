@@ -156,21 +156,38 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: National First Prize of the 16th National Smart Car Competition for College Students
-    awarder: Chinese Association of Automation
-    date: '2022-01-10'
-  - title: National Second Prize of the 16th National Smart Car Competition for College Students
-    awarder: Chinese Association of Automation
-    date: '2021-08-30'
-  - title: National Second Prize of the 2nd "Aerospace Cup" Mobile Robot AI Innovation and Technology Challenge
-    awarder: China Aerospace Science and Industry Corporation Limited
-    date: '2021-07-10'
-  - title: National Second Prize of the 19th China Graduate Student Mathematical Modelling Competition
-    awarder: Association of Chinese Graduate Education
-    date: '2023-01-10'
-  - title: National Third Prize of the 20th China Graduate Student Mathematical Modelling Competition
+  - title: National Post-Graduate Mathematical Contest in Modeling
     awarder: Association of Chinese Graduate Education
     date: '2023-12-10'
+    summary: |
+      Learned:
+      - Some statistical methods, e.g. entropy weighting, time series forecasting
+      - SPSS
+      - Some optimization methods such as genetic algorithms, linear programming.
+  - title: National University Students Intelligent Car Race
+    awarder: Chinese Association of Automation
+    date: '2022-01-10'
+    summary: |
+      Learned:
+      - global and local path planning for unmanned vehicles
+      - Ubuntu
+      - Robot Operating System (ROS)
+  - title: Mobile Robot AI Innovation and Technology Challenge
+    awarder: China Aerospace Science and Industry Corporation Limited
+    date: '2021-07-10'
+    summary: |
+      Learned:
+      - 2D Lidar Simultaneous Localization and Mapping (SLAM)
+      - Ackermann steering geometry
+      - socket programming
+  - title: National Undergraduate Electronics Design Contest
+    awarder: Ministry of Education of the People's Republic of China
+    date: '2020-10-10'
+    summary: |
+      Learned:
+      - microcontroller programming
+      - electronic circuit design
+      - digital-analogue signal processing
   
   # - title: Neural Networks and Deep Learning
   #   url: https://www.coursera.org/learn/neural-networks-deep-learning
