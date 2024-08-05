@@ -123,7 +123,7 @@ skills:
       - name: IsaacGym
         description: ''
         percent: 80
-        icon: circle-stack
+        icon: custom/isaac_logo
       - name: Mujoco
         description: ''
         percent: 60
