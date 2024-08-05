@@ -155,7 +155,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-selected awards:
+awards:
   - title: National First Prize of the 16th National Smart Car Competition for College Students
     awarder: Chinese Association of Automation
     date: '2022-01-10'
