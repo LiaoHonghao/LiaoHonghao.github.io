@@ -155,10 +155,23 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: National First Prize of Outdoor Special Group of the 16th National Smart Car Competition for College Students
+selected awards:
+  - title: National First Prize of the 16th National Smart Car Competition for College Students
     awarder: Chinese Association of Automation
     date: '2022-01-10'
+  - title: National Second Prize of the 16th National Smart Car Competition for College Students
+    awarder: Chinese Association of Automation
+    date: '2021-08-30'
+  - title: National Second Prize of the 2nd "Aerospace Cup" Mobile Robot AI Innovation and Technology Challenge
+    awarder: China Aerospace Science and Industry Corporation Limited
+    date: '2021-07-10'
+  - title: National Second Prize of the 19th China Graduate Student Mathematical Modelling Competition
+    awarder: Association of Chinese Graduate Education
+    date: '2023-01-10'
+  - title: National Third Prize of the 20th China Graduate Student Mathematical Modelling Competition
+    awarder: Association of Chinese Graduate Education
+    date: '2023-12-10'
+  
   # - title: Neural Networks and Deep Learning
   #   url: https://www.coursera.org/learn/neural-networks-deep-learning
   #   date: '2023-11-25'
