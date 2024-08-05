@@ -119,11 +119,11 @@ skills:
       - name: ROS
         description: ''
         percent: 60
-        icon: circle-stack
+        icon: devicon/ros
       - name: IsaacGym
         description: ''
         percent: 80
-        icon: custom/isaac_logo
+        icon: circle-stack
       - name: Mujoco
         description: ''
         percent: 60
@@ -135,15 +135,15 @@ skills:
       - name: Jogging
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: custom/person-running
       - name: Cycling
         description: ''
         percent: 100
-        icon: cat
+        icon: custom/bicycle
       - name: Movie
         description: ''
         percent: 80
-        icon: camera
+        icon: custom/film
 
 languages:
   - name: Chinese
