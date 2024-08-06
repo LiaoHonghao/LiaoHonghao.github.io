@@ -66,7 +66,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I have worked on many projects related to legged robots and human motion recognition. Here are a selection of projects that I have worked on over the years.
+      text: I have worked on several projects related to legged robots and human motion recognition. Here are a selection of projects that I have worked on over the years.
       filters:
         folders:
           - project
