@@ -36,7 +36,7 @@ url_pdf: uploads/working_paper.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
-# url_project: ''
+url_project: 'https://arxiv.org/abs/2408.03018'
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'
