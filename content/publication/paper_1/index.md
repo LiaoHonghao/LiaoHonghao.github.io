@@ -1,5 +1,5 @@
 ---
-title: "Integrating Controllable Motion Skills from Demonstrations (Working paper)"
+title: "Integrating Controllable Motion Skills from Demonstrations (Arxiv)"
 authors:
 - admin
 date: "2024-03-15T00:00:00Z"
