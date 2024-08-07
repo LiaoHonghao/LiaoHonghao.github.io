@@ -32,11 +32,11 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: uploads/working_paper.pdf
+url_pdf: 'https://arxiv.org/pdf/2408.03018'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
-url_project: 'https://arxiv.org/abs/2408.03018'
+# url_project: 'https://arxiv.org/abs/2408.03018'
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'
